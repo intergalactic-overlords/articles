@@ -20,7 +20,6 @@
 ### Showcase tutorials:
 
 * http://www.emanueleferonato.com/2014/04/04/how-to-create-a-complete-html5-2048-game-with-phaser/
-* 
 
 ## TypeScript
 
