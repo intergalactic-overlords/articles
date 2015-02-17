@@ -34,3 +34,4 @@
 * Game Mechanic Explorer: http://gamemechanicexplorer.com/#
 * Multiplayer with websockets: http://www.html5gamedevelopment.com/html5-demos/2012-03-browser-quest-massively-multiplayer-html5-game-w-web
 * Game programming patterns: http://gameprogrammingpatterns.com/contents.html
+* Render Hell: http://simonschreibt.de/gat/renderhell/
